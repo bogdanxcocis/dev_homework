@@ -16,7 +16,7 @@ This project is a CLI-based AI chatbot that recommends books based on user inter
 
 Follow these steps to set up and run the project locally.
 
-### 1. Clone the Repository (optional)
+### 1. Clone the Repository
 
 If using Git:
 
